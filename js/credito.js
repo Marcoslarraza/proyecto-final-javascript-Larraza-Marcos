@@ -28,6 +28,6 @@ function gen_table() {
         document.getElementById("t2").innerHTML = d4;
         document.getElementById("t3").innerHTML = d5;
     } else {
-        swal("Campos incompletos");
+        alert("Campos incompletos");
     }
 }
