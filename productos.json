@@ -1,0 +1,10 @@
+[
+    {"id":1, "nombre":"Sony a6600", "cantidad":6, "precio":71250, "img":"imagenes/1.jpeg"},
+    {"id":2, "nombre":"Sony a6400", "cantidad":12, "precio":31250, "img":"imagenes/5.jpeg"},
+    {"id":3, "nombre":"Sony a6300", "cantidad":16, "precio":51750, "img":"imagenes/3.jpeg"},
+    {"id":4, "nombre":"Sony a6100", "cantidad":32, "precio":63200, "img":"imagenes/6.jpeg"},
+    {"id":5, "nombre":"Sony a7rIV", "cantidad":6, "precio":750000, "img":"imagenes/4.jpeg"},
+    {"id":6, "nombre":"Sony a6100", "cantidad":12, "precio":71250, "img":"imagenes/2.jpeg"},
+    {"id":7, "nombre":"Sony a6100", "cantidad":16, "precio":51750, "img":"imagenes/1.jpeg"},
+    {"id":8, "nombre":"Sony a6100", "cantidad":32, "precio":83200, "img":"imagenes/6.jpeg"}
+]
