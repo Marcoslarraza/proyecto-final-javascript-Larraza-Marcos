@@ -167,7 +167,7 @@ function terminarCompra (){
               actualizarCarrito()
               window.location.reload()
             } else if (
-              /* Read more about handling dismissals below */
+            
               result.dismiss === Swal.DismissReason.cancel
             ) {
               swalWithBootstrapButtons.fire(
